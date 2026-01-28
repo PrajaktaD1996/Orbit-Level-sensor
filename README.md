@@ -1,5 +1,6 @@
 # Orbit-Level-sensor
-Commercial Project  -- Sapcon Instrumrnts Pvt.Ltd. 
+Commercial Project  
+Sapcon Instrumrnts Pvt.Ltd. 
 https://www.sapconinstruments.com/
 
 #  Orbit-Level-Sensor (Commercial Project)
