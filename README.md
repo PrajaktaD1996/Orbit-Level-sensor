@@ -91,4 +91,7 @@ This ensures reliable **presence or absence detection of solid materials**.
 - Industrial bulk material handling  
 
 ---
+## Author  
 
+Prajaktaa Deokar  
+Embedded Systems | Industrial Automation | Orbit | Sapcon Instruments Pvt. Ltd. 
